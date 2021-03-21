@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tag-cloud-in-tipstory-explore-page/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/tag-cloud-in-tipstory-explore-page/static/js/main.f9d49271.chunk.js",
-    "main.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/main.f9d49271.chunk.js.map",
-    "runtime-main.js": "/tag-cloud-in-tipstory-explore-page/static/js/runtime-main.48011df0.js",
-    "runtime-main.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/runtime-main.48011df0.js.map",
-    "static/js/2.ddf81eb2.chunk.js": "/tag-cloud-in-tipstory-explore-page/static/js/2.ddf81eb2.chunk.js",
-    "static/js/2.ddf81eb2.chunk.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/2.ddf81eb2.chunk.js.map",
-    "static/js/3.13966c4d.chunk.js": "/tag-cloud-in-tipstory-explore-page/static/js/3.13966c4d.chunk.js",
-    "static/js/3.13966c4d.chunk.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/3.13966c4d.chunk.js.map",
+    "main.css": "/tag-cloud-in-tipstory-explore-page/static/css/main.f8a5c29b.chunk.css",
+    "main.js": "/tag-cloud-in-tipstory-explore-page/static/js/main.1f7cea1a.chunk.js",
+    "main.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/main.1f7cea1a.chunk.js.map",
+    "runtime-main.js": "/tag-cloud-in-tipstory-explore-page/static/js/runtime-main.81284a7d.js",
+    "runtime-main.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/runtime-main.81284a7d.js.map",
+    "static/js/2.05153c3b.chunk.js": "/tag-cloud-in-tipstory-explore-page/static/js/2.05153c3b.chunk.js",
+    "static/js/2.05153c3b.chunk.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/2.05153c3b.chunk.js.map",
+    "static/js/3.930fe2b6.chunk.js": "/tag-cloud-in-tipstory-explore-page/static/js/3.930fe2b6.chunk.js",
+    "static/js/3.930fe2b6.chunk.js.map": "/tag-cloud-in-tipstory-explore-page/static/js/3.930fe2b6.chunk.js.map",
     "index.html": "/tag-cloud-in-tipstory-explore-page/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/tag-cloud-in-tipstory-explore-page/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ddf81eb2.chunk.js.LICENSE.txt": "/tag-cloud-in-tipstory-explore-page/static/js/2.ddf81eb2.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tag-cloud-in-tipstory-explore-page/static/media/logo.6ce24c58.svg"
+    "static/css/main.f8a5c29b.chunk.css.map": "/tag-cloud-in-tipstory-explore-page/static/css/main.f8a5c29b.chunk.css.map",
+    "static/js/2.05153c3b.chunk.js.LICENSE.txt": "/tag-cloud-in-tipstory-explore-page/static/js/2.05153c3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48011df0.js",
-    "static/js/2.ddf81eb2.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f9d49271.chunk.js"
+    "static/js/runtime-main.81284a7d.js",
+    "static/js/2.05153c3b.chunk.js",
+    "static/css/main.f8a5c29b.chunk.css",
+    "static/js/main.1f7cea1a.chunk.js"
   ]
 }
