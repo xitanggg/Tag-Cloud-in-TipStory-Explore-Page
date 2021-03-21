@@ -1,0 +1,28 @@
+.tagCloud {
+	position: relative;
+	max-width: 700px;
+	width: 100%;
+}
+
+.tag {
+	box-sizing: border-box;
+	color: var(--tipstory-blue);
+	padding: 0px 3px 2px 3px;
+	border-radius: 7px;
+	width: fit-content;
+	position: absolute;
+	transition: visibility 0s, opacity 0.5s linear;
+}
+
+.tagLink:focus > .tag,
+.tagLink:hover > .tag {
+	text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+	.tagCloud {
+		box-sizing: border-box;
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+}
