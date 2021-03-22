@@ -133,7 +133,7 @@ const useTagPosition = (tagRef, idx, tagListRef, bookWidth, setState) => {
 			// Check if tag collides with other tags
 			const collision = isTagCollided(tagObj, otherTags);
 			if (collision) {
-				theta = theta + 0.1;
+				theta = theta + stepSize;
 				numLoop += 1;
 			} else {
 				tagListRef.current[idx].x1 = newX1;

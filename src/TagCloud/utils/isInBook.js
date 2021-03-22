@@ -1,12 +1,13 @@
+import { BOOK_HEIGHT, SEMI_MINOR_AXIS } from './constant';
+
 /**
  * isInBook checks if tagObj is within the book.
  * It returns true if tagObj is within the book.
  *
  * @param {Object} tagObj
+ * @param {Number} bookWidth
+ * @returns {Boolean}
  */
-
-import { BOOK_HEIGHT, SEMI_MINOR_AXIS } from './constant';
-
 const isInBook = (tagObj, bookWidth) => {
 	const { x1, y1, x2, y2 } = tagObj;
 	// Check if outside of left
