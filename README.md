@@ -6,6 +6,19 @@ Hi there👋 This is the Tag Cloud React component☁️ that is being used in [
 
 At high level, it takes an array of tags as input and attempts to place each tag into the book. Finally, it makes a tag visible every 300ms in the order of the array.
 
+## 💻Local testing
+
+To test this locally, type in the following in the command line
+
+```sh
+git clone https://github.com/xitanggg/tag-cloud-in-tipstory-explore-page.git
+cd .\tag-cloud-in-tipstory-explore-page
+npm install
+npm start
+```
+
+And you should see what is appeared in [this demo](https://xitanggg.github.io/tag-cloud-in-tipstory-explore-page)🚀
+
 ---
 
 🔍The core of creating the TipStory tag cloud is the algorithm that is used to place tags and it works in the following steps:
